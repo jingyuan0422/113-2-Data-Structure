@@ -3,3 +3,4 @@
 * 授課教師: 蔡芸琤老師
 
 ## HW1
+Analyzing the past three years of the U.S. stock market using AI agents to conduct macroeconomic and industry analysis, generate investment portfolio recommendations, and assess associated risks.

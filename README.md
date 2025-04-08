@@ -13,4 +13,5 @@ Analyzing the past three years of the U.S. stock market using AI agents to condu
 
 ### HW2
 * [Coding](DRai/HW2/Drai_Academic_Discussion.py)
+
 ![圖片名稱](DRai/HW2/screenshot.png)

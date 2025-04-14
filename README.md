@@ -25,6 +25,7 @@ Analyzing the past three years of the U.S. stock market using AI agents to condu
 
 ## Final Project--Multi-Agent System for Stock Analysis
 This project implements a multi-agent system for comprehensive financial analysis of stocks. It combines stock data analysis, market sentiment analysis, and automated report generation, which is then sent via email. The system uses Gemini-2.0 and includes five AI agents working together.
+* [Propasal Video](https://youtu.be/1bVJAloY4fM)
 
 ### Features
 * Real-time stock data analysis using Yahoo Finance
@@ -36,6 +37,4 @@ This project implements a multi-agent system for comprehensive financial analysi
 ### Flow chart
 ![圖片名稱](Final_Project/Flow_chart.png)
 
-### Content
-* [Propasal Video](https://youtu.be/1bVJAloY4fM)
 

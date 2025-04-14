@@ -33,6 +33,9 @@ This project implements a multi-agent system for comprehensive financial analysi
 * Investment suggestions
 * Automated report generation and email distribution
 
+### Flow chart
+![圖片名稱](Final_Project/Flow_chart.png)
+
 
 
 

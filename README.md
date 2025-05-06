@@ -25,6 +25,10 @@ Analyzing the past three years of the U.S. stock market using AI agents to condu
 * [Coding](getPDF/HW4/getPDF_DRai.py)
 * [PDF result](getPDF/HW4/DRai_result_PDF.pdf)
 
+### HW5
+* [Coding](EMO/HW5/app.py)
+
+
 ***
 
 ## Final Project--Multi-Agent System for Stock Analysis

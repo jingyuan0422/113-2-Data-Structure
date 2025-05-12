@@ -28,8 +28,12 @@ Analyzing the past three years of the U.S. stock market using AI agents to condu
 ### HW5
 1. Gradio Frontend   
    [Coding](EMO/HW5-1/App.py)
-3.  Streamlit Frontend   
+   ![圖片名稱](EMO/HW5-1/5-1screenshot.png)
+   
+2.  Streamlit Frontend   
    [Coding](EMO/HW5-2/app.py)
+   ![圖片名稱](EMO/HW5-2/5-2-1screenshot.png)
+   ![圖片名稱](EMO/HW5-2/5-2-2screenshot.png)
 
 
 ***

@@ -20,7 +20,7 @@ This project implements a multi-agent system for comprehensive financial analysi
 * Automated Report Generation and Auto-Inclusion in Watchlist
 
 ### Flow chart
-![圖片名稱](Final_Project/Flow_chart.png)
+![圖片名稱](Final_Project/flow_chart.png)
 
 ### Directory Structure
 ```text

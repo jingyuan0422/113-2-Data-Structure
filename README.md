@@ -17,7 +17,20 @@ This project implements a multi-agent system for comprehensive financial analysi
 ### Flow chart
 ![圖片名稱](Final_Project/Flow_chart.png)
 
+### Directory Structure
+```text
+project/
+├── app.py
+└── utils/
+    ├── finance.py
+    ├── agent.py
+    ├── pdf_generator.py
+    └── add_todolist.py
+```
+
+
 ***
+
 
 ## Homework
 ### HW1

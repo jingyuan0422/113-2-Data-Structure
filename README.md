@@ -7,7 +7,9 @@ This project implements a multi-agent system for comprehensive financial analysi
 * [第一次審查影片](https://youtu.be/1bVJAloY4fM)
 * [第二次進度追蹤](https://youtu.be/wONMbGkUn_I)
 * [期末專題成果]()
-* [Coding](Final_Project/app.py)
+
+
+* [app](Final_Project/app.py)
 
 
 ### Features

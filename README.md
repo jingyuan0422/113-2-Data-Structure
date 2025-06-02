@@ -9,7 +9,7 @@ This project implements a multi-agent system for comprehensive financial analysi
 * [期末專題成果]()
 
 
-* [app](Final_Project/app.py)
+* [app.py](Final_Project/app.py)
 
 
 ### Features

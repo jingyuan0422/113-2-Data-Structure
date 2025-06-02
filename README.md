@@ -6,7 +6,7 @@
 This project implements a multi-agent system for comprehensive financial analysis of stocks. It combines stock data analysis, market sentiment analysis, and automated report generation, which is then sent via email. The system uses Gemini-2.0 and includes five AI agents working together.
 * [第一次審查影片](https://youtu.be/1bVJAloY4fM)
 * [第二次進度追蹤](https://youtu.be/wONMbGkUn_I)
-* [期末專題成果]()
+* [期末專題成果](https://youtu.be/DZdeAfwQ1fw)
 
 
 * [app.py](Final_Project/app.py)

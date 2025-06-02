@@ -2,6 +2,22 @@
 * 姓名：黃靖媛
 * 授課教師: 蔡芸琤老師
 
+## Final Project--Multi-Agent System for Stock Analysis
+This project implements a multi-agent system for comprehensive financial analysis of stocks. It combines stock data analysis, market sentiment analysis, and automated report generation, which is then sent via email. The system uses Gemini-2.0 and includes five AI agents working together.
+* [第一次審查影片](https://youtu.be/1bVJAloY4fM)
+* [第二次進度追蹤](https://youtu.be/wONMbGkUn_I)
+
+### Features
+* Real-time stock data analysis using Yahoo Finance
+* Stock price visualization with charts
+* Web search integration for the latest company information and market sentiment
+* Investment suggestions
+* Automated report generation and email distribution
+
+### Flow chart
+![圖片名稱](Final_Project/Flow_chart.png)
+
+***
 
 ## Homework
 ### HW1
@@ -34,23 +50,4 @@ Analyzing the past three years of the U.S. stock market using AI agents to condu
    [Coding](EMO/HW5-2/app.py)
    ![圖片名稱](EMO/HW5-2/5-2-1screenshot.png)
    ![圖片名稱](EMO/HW5-2/5-2-2screenshot.png)
-
-
-***
-
-## Final Project--Multi-Agent System for Stock Analysis
-This project implements a multi-agent system for comprehensive financial analysis of stocks. It combines stock data analysis, market sentiment analysis, and automated report generation, which is then sent via email. The system uses Gemini-2.0 and includes five AI agents working together.
-* [第一次審查影片](https://youtu.be/1bVJAloY4fM)
-* [第二次進度追蹤](https://youtu.be/wONMbGkUn_I)
-
-### Features
-* Real-time stock data analysis using Yahoo Finance
-* Stock price visualization with charts
-* Web search integration for the latest company information and market sentiment
-* Investment suggestions
-* Automated report generation and email distribution
-
-### Flow chart
-![圖片名稱](Final_Project/Flow_chart.png)
-
 
